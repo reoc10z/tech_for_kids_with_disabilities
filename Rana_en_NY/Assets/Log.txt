@@ -1,0 +1,25 @@
+CARE MONDAAAA
+scale factor(1)
+screen ( 960, 640 )
+imgA - C( 245 , y ) - W( 45 , 445 ) - H( 50 , 550 )
+imgB - C( 715 , y ) - W( 515 , 915 ) - H( 50 , 550 )
+CARE MONDAAAA
+scale factor(1)
+screen ( 960, 640 )
+imgA - C( 245 , y ) - W( 45 , 445 ) - H( 50 , 550 )
+imgB - C( 715 , y ) - W( 515 , 915 ) - H( 50 , 550 )
+CARE MONDAAAA
+scale factor(1)
+screen ( 960, 640 )
+imgA - C( 245 , y ) - W( 45 , 445 ) - H( 50 , 550 )
+imgB - C( 715 , y ) - W( 515 , 915 ) - H( 50 , 550 )
+CARE MONDAAAA
+scale factor(1)
+screen ( 960, 640 )
+imgA - C( 245 , y ) - W( 45 , 445 ) - H( 50 , 550 )
+imgB - C( 715 , y ) - W( 515 , 915 ) - H( 50 , 550 )
+CARE MONDAAAA
+scale factor(1)
+screen ( 960, 640 )
+imgA - C( 245 , y ) - W( 45 , 445 ) - H( 50 , 550 )
+imgB - C( 715 , y ) - W( 515 , 915 ) - H( 50 , 550 )
